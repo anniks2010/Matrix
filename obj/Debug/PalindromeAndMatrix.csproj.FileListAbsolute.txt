@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\PalindromeAndMatrix\bin\Debug\PalindromeAndMatrix.exe.config
+C:\Users\opilane\projects\PalindromeAndMatrix\bin\Debug\PalindromeAndMatrix.exe
+C:\Users\opilane\projects\PalindromeAndMatrix\bin\Debug\PalindromeAndMatrix.pdb
+C:\Users\opilane\projects\PalindromeAndMatrix\obj\Debug\PalindromeAndMatrix.csprojAssemblyReference.cache
+C:\Users\opilane\projects\PalindromeAndMatrix\obj\Debug\PalindromeAndMatrix.exe
+C:\Users\opilane\projects\PalindromeAndMatrix\obj\Debug\PalindromeAndMatrix.pdb
